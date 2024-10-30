@@ -73,7 +73,7 @@ chrysler newport royal,13,8,400,190,4422,12.5,72,usa
 mazda rx2 coupe,19,3,70,97,2330,13.5,72,japan
 amc matador (sw),15,8,304,150,3892,12.5,72,usa
 chevrolet chevelle concours (sw),13,8,307,130,4098,14,72,usa
-ford gran torino (sw),13,8,302,140,4294,16,72,usa
+ford gran torino (sw),13,8,302,,4294,16,72,usa
 plymouth satellite custom (sw),14,8,318,150,4077,14,72,usa
 volvo 145e (sw),18,4,121,112,2933,14.5,72,europe
 volkswagen 411 (sw),22,4,121,76,2511,18,72,europe

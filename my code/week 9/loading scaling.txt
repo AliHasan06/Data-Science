@@ -1,0 +1,10 @@
+import joblib
+
+# Load the saved scaler
+scaler = joblib.load('scaler.pkl')
+
+# Assume new_data is the incoming data for prediction
+new_data_scaled = scaler.transform(new_data)
+
+# Predict using the scaled new data
+predictions = model.predict(new_data_scaled)
